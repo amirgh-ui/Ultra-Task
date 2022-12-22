@@ -9,3 +9,5 @@ to install pandas:
 ```sh
 pip install pandas
 ```
+
+**Note:** In case code outputs are not present in ```ultra.ipynb``` file, checkout ```ultra.pdf```.
